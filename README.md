@@ -22,7 +22,7 @@ Building my foundations in Python, machine learning, and AI development — one 
 
 ## 📬 Reach Me
 
-- 🌐 jeremyaidev.netlify.app
+- 🌐 https://jeremyaidev.netlify.app
 - 📷 jeremy.aidev
 - 📧 jeremy.njumbe1301@gmail.com
 
